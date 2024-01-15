@@ -1,0 +1,5 @@
+¿Cuál es la capital de Francia?|París
+¿En qué año llegó el hombre a la Luna?|1969
+¿Cuál es el río más largo del mundo?|Amazonas
+¿Quién escribió 'Don Quijote de la Mancha'?|Miguel de Cervantes
+¿Cuál es el elemento químico más abundante en la atmósfera terrestre?|Nitrógeno

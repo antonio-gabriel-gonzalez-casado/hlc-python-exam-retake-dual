@@ -1,0 +1,3 @@
+Carlos: 3
+Ana: 5
+Miguel: 4
